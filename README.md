@@ -1,5 +1,11 @@
-# meteor-react-latest
+# leader-shalom-meteor
 
 Template project using Meteor, React, Apollo, Material UI
 
-The goal is always to keep this repository up-to-date and with great organization for Meteor projects.
+Based: https://github.com/CodeFTW/meteor-react-latest
+
+Create a CRUD with Meteor, React, and after introduce GraphQL.
+
+## Start
+$ meteor npm install
+$ meteor
